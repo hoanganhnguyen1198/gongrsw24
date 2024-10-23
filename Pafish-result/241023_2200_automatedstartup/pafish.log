@@ -1,0 +1,14 @@
+
+[pafish] Start
+[pafish] Windows version: 6.2 build 9200 (native)
+[pafish] CPU: GenuineIntel Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz        
+[pafish] CPU VM traced by checking the difference between CPU timestamp counters (rdtsc)
+[pafish] CPU VM traced by checking the difference between CPU timestamp counters (rdtsc) forcing VM exit
+[pafish] Sandbox traced by missing dialog confirmation
+[pafish] Sandbox traced by missing or implausible dialog confirmation
+[pafish] Sandbox traced by checking operating system uptime using GetTickCount()
+[pafish] VirtualBox traced using Reg key HKLM\HARDWARE\Description\System "VideoBiosVersion"
+[pafish] VirtualBox traced using Reg key HKLM\HARDWARE\ACPI\DSDT\VBOX__
+[pafish] VirtualBox traced using Reg key HKLM\HARDWARE\DESCRIPTION\System "SystemBiosDate"
+[pafish] VirtualBox device identifiers traced using WMI
+[pafish] End
