@@ -1,0 +1,692 @@
+{"ts":421,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":437,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":437,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\VirusShare_a5c7482e81be10e0c5666b1261a0989a.exe","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\VirusShare_a5c7482e81be10e0c5666b1261a0989a.exe","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"\\??\\C:\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\VirusShare_a5c7482e81be10e0c5666b1261a0989a.exe","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"\\??\\C:\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\VirusShare_a5c7482e81be10e0c5666b1261a0989a.exe","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"\\??\\C:\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\","dstpath":""}
+{"ts":453,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.15063.0_none_583b8639f462029f","dstpath":""}
+{"ts":578,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\Device\\DeviceApi\\CMApi","dstpath":""}
+{"ts":578,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\Device\\CNG","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\C:\\","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Caches","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Caches","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Caches","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Caches\\cversions.1.db","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\AppData\\Local\\Microsoft\\Windows\\Caches\\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000001.db","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\desktop.ini","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\AppData","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\AppData\\Local","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\Desktop\\desktop.ini","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\Documents\\desktop.ini","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\Music\\desktop.ini","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\Pictures\\desktop.ini","dstpath":""}
+{"ts":640,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\Videos\\desktop.ini","dstpath":""}
+{"ts":656,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\Downloads\\desktop.ini","dstpath":""}
+{"ts":656,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\OneDrive\\desktop.ini","dstpath":""}
+{"ts":656,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\OneDrive\\desktop.ini","dstpath":""}
+{"ts":703,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\Searches\\desktop.ini","dstpath":""}
+{"ts":703,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\Contacts\\desktop.ini","dstpath":""}
+{"ts":703,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\Favorites\\desktop.ini","dstpath":""}
+{"ts":703,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\Links\\desktop.ini","dstpath":""}
+{"ts":703,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\Saved Games\\desktop.ini","dstpath":""}
+{"ts":718,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\STORAGE#Volume#{acbf57f0-c3bf-11ef-a098-806e6f6e6963}#0000000012D00000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}","dstpath":""}
+{"ts":718,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\STORAGE#Volume#{acbf57f0-c3bf-11ef-a098-806e6f6e6963}#0000000012D00000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}","dstpath":""}
+{"ts":718,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":718,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\SCSI#CdRom&Ven_QEMU&Prod_QEMU_DVD-ROM#4&215468a5&0&010000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}","dstpath":""}
+{"ts":718,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\SCSI#CdRom&Ven_QEMU&Prod_QEMU_DVD-ROM#4&215468a5&0&010000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}","dstpath":""}
+{"ts":718,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":734,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\STORAGE#Volume#{acbf57f0-c3bf-11ef-a098-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}","dstpath":""}
+{"ts":734,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\STORAGE#Volume#{acbf57f0-c3bf-11ef-a098-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}","dstpath":""}
+{"ts":734,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":734,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":734,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":734,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":734,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":734,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":734,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":734,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\C:\\","dstpath":""}
+{"ts":734,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_created","action":"create_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4362.tmp","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4362.tmp","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_deleted","action":"delete","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4362.tmp","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\VirusShare_a5c7482e81be10e0c5666b1261a0989a.exe","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_created","action":"create_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_deleted","action":"delete","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp","dstpath":""}
+{"ts":750,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":765,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":765,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":781,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\aminsis.txt","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\Application\\","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Local State","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\profiles.ini","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\AppData\\Roaming\\Mozilla\\Firefox\\profiles.ini","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"\\??\\C:\\","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ie","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ie","dstpath":""}
+{"ts":796,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ie\\MediaWatchV1home496.dll","dstpath":""}
+{"ts":812,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)","dstpath":""}
+{"ts":812,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1","dstpath":""}
+{"ts":812,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496","dstpath":""}
+{"ts":812,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ie","dstpath":""}
+{"ts":812,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)","dstpath":""}
+{"ts":812,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1","dstpath":""}
+{"ts":812,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496","dstpath":""}
+{"ts":812,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ie","dstpath":""}
+{"ts":828,"kind":"file","effect":"file_read","action":"Unknown","pid":4940,"procid":82,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":828,"kind":"file","effect":"file_read","action":"open_read","pid":4940,"procid":82,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":828,"kind":"file","effect":"file_read","action":"Unknown","pid":4940,"procid":82,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ie\\","dstpath":""}
+{"ts":906,"kind":"file","effect":"file_read","action":"open_read","pid":4940,"procid":82,"srcpath":"\\Device\\DeviceApi\\CMApi","dstpath":""}
+{"ts":906,"kind":"file","effect":"file_read","action":"open_read","pid":4940,"procid":82,"srcpath":"\\Device\\CNG","dstpath":""}
+{"ts":906,"kind":"file","effect":"file_written","action":"open_modify","pid":4940,"procid":82,"srcpath":"\\Device\\KsecDD","dstpath":""}
+{"ts":937,"kind":"file","effect":"file_read","action":"open_read","pid":4940,"procid":82,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ie\\MediaWatchV1home496.dll","dstpath":""}
+{"ts":953,"kind":"file","effect":"file_read","action":"open_read","pid":4940,"procid":82,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ie\\MediaWatchV1home496.dll","dstpath":""}
+{"ts":953,"kind":"file","effect":"file_read","action":"open_read","pid":4940,"procid":82,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ie\\MediaWatchV1home496.dll","dstpath":""}
+{"ts":968,"kind":"file","effect":"file_read","action":"open_read","pid":4940,"procid":82,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ie\\MediaWatchV1home496.dll","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ch","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ch","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ch\\MediaWatchV1home496.crx","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ch\\MediaWatchV1home496.crx","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome.manifest","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome.manifest","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\install.rdf","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\install.rdf","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\ffMediaWatchV1home496.js","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\ffMediaWatchV1home496.js","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\ffMediaWatchV1home496ffaction.js","dstpath":""}
+{"ts":984,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\ffMediaWatchV1home496ffaction.js","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\overlay.xul","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\overlay.xul","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\icons","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\icons","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\icons","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\icons\\Thumbs.db","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\icons\\Thumbs.db","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content","dstpath":""}
+{"ts":1000,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\icons","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\icons\\default","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\icons\\default","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\icons\\default","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\icons\\default\\MediaWatchV1home496_32.png","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff\\chrome\\content\\icons\\default\\MediaWatchV1home496_32.png","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\ff","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\uninstall.exe","dstpath":""}
+{"ts":1015,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":1031,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":1031,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":1046,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Preferences","dstpath":""}
+{"ts":1046,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":1078,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.15063.0_none_583b8639f462029f","dstpath":""}
+{"ts":1125,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Windows\\System32\\GroupPolicy","dstpath":""}
+{"ts":1125,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Windows\\SysWOW64\\GroupPolicy\\gpt.ini","dstpath":""}
+{"ts":1125,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Windows\\SysWOW64\\GroupPolicy\\gpt.ini","dstpath":""}
+{"ts":1125,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Windows\\System32\\GroupPolicy\\Machine","dstpath":""}
+{"ts":1125,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Windows\\System32\\GroupPolicy\\User","dstpath":""}
+{"ts":1140,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Windows\\System32\\GroupPolicy\\User\\Registry.pol","dstpath":""}
+{"ts":1140,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Windows\\System32\\GroupPolicy\\Machine\\Registry.pol","dstpath":""}
+{"ts":1140,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Windows\\System32\\GroupPolicy\\Machine\\Registry.pol","dstpath":""}
+{"ts":1140,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Windows\\System32\\GroupPolicy\\GPT.INI","dstpath":""}
+{"ts":1140,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Windows\\System32\\GroupPolicy\\GPT.INI","dstpath":""}
+{"ts":1140,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Windows\\System32\\GroupPolicy\\GPT.INI","dstpath":""}
+{"ts":1140,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Windows\\System32\\GroupPolicy\\GPT.INI","dstpath":""}
+{"ts":1218,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"\\??\\C:\\","dstpath":""}
+{"ts":1218,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":1234,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":1250,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"\\??\\C:\\","dstpath":""}
+{"ts":1250,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Windows\\","dstpath":""}
+{"ts":1250,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Windows\\SysWOW64\\","dstpath":""}
+{"ts":1265,"kind":"file","effect":"file_read","action":"Unknown","pid":5036,"procid":84,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":1281,"kind":"file","effect":"file_read","action":"open_read","pid":5036,"procid":84,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":1281,"kind":"file","effect":"file_read","action":"Unknown","pid":5036,"procid":84,"srcpath":"C:\\Program Files (x86)\\MediaWatchV1\\MediaWatchV1home496\\","dstpath":""}
+{"ts":1281,"kind":"file","effect":"file_created","action":"create_modify","pid":5036,"procid":84,"srcpath":"\\Device\\ConDrv\\Server","dstpath":""}
+{"ts":1281,"kind":"file","effect":"file_created","action":"create_modify","pid":5036,"procid":84,"srcpath":"\\Device\\ConDrv\\\\Reference","dstpath":""}
+{"ts":1343,"kind":"file","effect":"file_created","action":"create_modify","pid":5036,"procid":84,"srcpath":"\\Device\\ConDrv\\\\Connect","dstpath":""}
+{"ts":1343,"kind":"file","effect":"file_created","action":"create_modify","pid":5036,"procid":84,"srcpath":"\\Device\\ConDrv\\\\Input","dstpath":""}
+{"ts":1343,"kind":"file","effect":"file_created","action":"create_modify","pid":5036,"procid":84,"srcpath":"\\Device\\ConDrv\\\\Output","dstpath":""}
+{"ts":1359,"kind":"file","effect":"file_read","action":"open_read","pid":5036,"procid":84,"srcpath":"\\Device\\CNG","dstpath":""}
+{"ts":1375,"kind":"file","effect":"file_read","action":"Unknown","pid":5092,"procid":86,"srcpath":"C:\\Windows\\system32\\","dstpath":""}
+{"ts":1375,"kind":"file","effect":"file_read","action":"open_read","pid":5092,"procid":86,"srcpath":"\\Device\\CNG","dstpath":""}
+{"ts":1390,"kind":"file","effect":"file_written","action":"open_modify","pid":5036,"procid":84,"srcpath":"\\Device\\KsecDD","dstpath":""}
+{"ts":1484,"kind":"file","effect":"file_read","action":"open_read","pid":5092,"procid":86,"srcpath":"\\Device\\DeviceApi\\CMApi","dstpath":""}
+{"ts":1484,"kind":"file","effect":"file_written","action":"open_modify","pid":5092,"procid":86,"srcpath":"\\Device\\KsecDD","dstpath":""}
+{"ts":1484,"kind":"file","effect":"file_read","action":"Unknown","pid":5092,"procid":86,"srcpath":"C:\\Users\\","dstpath":""}
+{"ts":1484,"kind":"file","effect":"file_read","action":"Unknown","pid":5092,"procid":86,"srcpath":"C:\\Users\\","dstpath":""}
+{"ts":1484,"kind":"file","effect":"file_read","action":"Unknown","pid":5092,"procid":86,"srcpath":"C:\\Users\\","dstpath":""}
+{"ts":1484,"kind":"file","effect":"file_read","action":"Unknown","pid":5092,"procid":86,"srcpath":"C:\\Users\\","dstpath":""}
+{"ts":1625,"kind":"file","effect":"file_read","action":"Unknown","pid":5092,"procid":86,"srcpath":"C:\\Users\\","dstpath":""}
+{"ts":1625,"kind":"file","effect":"file_read","action":"Unknown","pid":5092,"procid":86,"srcpath":"C:\\Users\\","dstpath":""}
+{"ts":1625,"kind":"file","effect":"file_read","action":"Unknown","pid":5092,"procid":86,"srcpath":"C:\\Users\\","dstpath":""}
+{"ts":1625,"kind":"file","effect":"file_read","action":"Unknown","pid":5092,"procid":86,"srcpath":"C:\\Users\\","dstpath":""}
+{"ts":1796,"kind":"file","effect":"file_read","action":"Unknown","pid":3312,"procid":87,"srcpath":"C:\\Windows\\system32\\","dstpath":""}
+{"ts":1796,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"\\Device\\CNG","dstpath":""}
+{"ts":1828,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\KsecDD","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"Unknown","pid":3312,"procid":87,"srcpath":"C:\\ProgramData","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"Unknown","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"Unknown","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.100.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.099.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.098.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.097.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.096.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.095.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.094.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.093.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.092.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.091.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.090.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.089.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.088.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.087.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.086.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.085.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.084.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.083.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.082.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.081.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.080.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.079.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.078.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.077.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.076.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.075.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.074.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.073.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.072.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.071.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.070.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.069.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.068.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.067.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.066.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.065.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.064.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.063.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.062.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.061.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.060.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.059.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.058.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.057.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.056.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.055.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.054.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.053.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.052.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.051.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.050.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.049.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.048.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.047.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.046.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.045.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.044.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.043.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.042.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.041.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.040.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.039.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.038.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.037.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.036.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.035.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.034.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.033.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.032.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.031.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.030.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.029.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.028.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.027.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.026.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.025.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.024.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.023.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.022.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.021.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.020.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.019.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.018.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.017.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.016.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.015.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.014.etl","dstpath":""}
+{"ts":1843,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.013.etl","dstpath":""}
+{"ts":1859,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.012.etl","dstpath":""}
+{"ts":1859,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.011.etl","dstpath":""}
+{"ts":1859,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.010.etl","dstpath":""}
+{"ts":1859,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.009.etl","dstpath":""}
+{"ts":1859,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.008.etl","dstpath":""}
+{"ts":1859,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.007.etl","dstpath":""}
+{"ts":1859,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.006.etl","dstpath":""}
+{"ts":1859,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.005.etl","dstpath":""}
+{"ts":1859,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.004.etl","dstpath":""}
+{"ts":1859,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.003.etl","dstpath":""}
+{"ts":1859,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.002.etl","dstpath":""}
+{"ts":1859,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.001.etl","dstpath":""}
+{"ts":1859,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.001.etl","dstpath":""}
+{"ts":1859,"kind":"file","effect":"file_read","action":"Unknown","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs","dstpath":""}
+{"ts":1859,"kind":"file","effect":"file_created","action":"create_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOShared\\Logs\\UpdateSessionOrchestration.001.etl","dstpath":""}
+{"ts":1984,"kind":"file","effect":"file_read","action":"Unknown","pid":4188,"procid":88,"srcpath":"C:\\Windows\\system32\\","dstpath":""}
+{"ts":1984,"kind":"file","effect":"file_read","action":"open_read","pid":4188,"procid":88,"srcpath":"\\Device\\CNG","dstpath":""}
+{"ts":2328,"kind":"file","effect":"file_read","action":"Unknown","pid":3312,"procid":87,"srcpath":"C:\\ProgramData","dstpath":""}
+{"ts":2328,"kind":"file","effect":"file_read","action":"Unknown","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate","dstpath":""}
+{"ts":2328,"kind":"file","effect":"file_read","action":"Unknown","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore","dstpath":""}
+{"ts":2328,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":2328,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":2328,"kind":"file","effect":"file_created","action":"create_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":2453,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"\\Device\\DeviceApi\\CMApi","dstpath":""}
+{"ts":2484,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"\\??\\Nsi","dstpath":""}
+{"ts":2484,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\Windows\\System32\\en-US\\Windows.Networking.Connectivity.dll.mui","dstpath":""}
+{"ts":2484,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\Windows\\System32\\en\\Windows.Networking.Connectivity.dll.mui","dstpath":""}
+{"ts":2562,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestoretemp51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":2625,"kind":"file","effect":"file_created","action":"create_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestoretemp51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":3171,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":3187,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":3187,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestoretemp51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":3203,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\","dstpath":""}
+{"ts":3265,"kind":"file","effect":"file_created","action":"create_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml~RF4cf7.TMP","dstpath":""}
+{"ts":3265,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml~RF4cf7.TMP","dstpath":""}
+{"ts":3265,"kind":"file","effect":"file_deleted","action":"delete","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml~RF4cf7.TMP","dstpath":""}
+{"ts":3281,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":3296,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"\\DEVICE\\NETBT_TCPIP_{B6098F25-97F6-4D7D-BAE2-D21D794F77F5}","dstpath":""}
+{"ts":3296,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"\\DEVICE\\NETBT_TCPIP_{ACBF57ED-C3BF-11EF-A098-806E6F6E6963}","dstpath":""}
+{"ts":3312,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":3328,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":3328,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":3328,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\RasAcd","dstpath":""}
+{"ts":3328,"kind":"file","effect":"file_written","action":"open_modify","pid":4188,"procid":88,"srcpath":"\\Device\\KsecDD","dstpath":""}
+{"ts":3328,"kind":"file","effect":"file_read","action":"open_read","pid":4188,"procid":88,"srcpath":"\\Device\\DeviceApi\\CMApi","dstpath":""}
+{"ts":3468,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":3468,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":3468,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":3468,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":3578,"kind":"file","effect":"file_read","action":"Unknown","pid":4188,"procid":88,"srcpath":"C:\\Windows\\system32\\","dstpath":""}
+{"ts":3578,"kind":"file","effect":"file_written","action":"open_modify","pid":4188,"procid":88,"srcpath":"\\??\\PIPE\\lsarpc","dstpath":""}
+{"ts":3593,"kind":"file","effect":"file_written","action":"open_modify","pid":4188,"procid":88,"srcpath":"C:\\Windows\\INF\\setupapi.dev.log","dstpath":""}
+{"ts":3609,"kind":"file","effect":"file_read","action":"open_read","pid":4188,"procid":88,"srcpath":"\\??\\scsi#disk&ven_qemu&prod_harddisk#4&215468a5&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}","dstpath":""}
+{"ts":3609,"kind":"file","effect":"file_read","action":"open_read","pid":4188,"procid":88,"srcpath":"\\??\\storage#volume#{acbf57f0-c3bf-11ef-a098-806e6f6e6963}#0000000012d00000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}","dstpath":""}
+{"ts":3609,"kind":"file","effect":"file_read","action":"open_read","pid":4188,"procid":88,"srcpath":"\\??\\scsi#cdrom&ven_qemu&prod_qemu_dvd-rom#4&215468a5&0&010000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}","dstpath":""}
+{"ts":3671,"kind":"file","effect":"file_written","action":"open_modify","pid":4188,"procid":88,"srcpath":"C:\\Windows\\INF\\setupapi.dev.log","dstpath":""}
+{"ts":3703,"kind":"file","effect":"file_written","action":"open_modify","pid":4188,"procid":88,"srcpath":"C:\\Windows\\INF\\setupapi.dev.log","dstpath":""}
+{"ts":3703,"kind":"file","effect":"file_read","action":"open_read","pid":4188,"procid":88,"srcpath":"\\??\\scsi#disk&ven_qemu&prod_harddisk#4&215468a5&0&000000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}","dstpath":""}
+{"ts":3703,"kind":"file","effect":"file_read","action":"open_read","pid":4188,"procid":88,"srcpath":"\\??\\storage#volume#{acbf57f0-c3bf-11ef-a098-806e6f6e6963}#0000000012d00000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}","dstpath":""}
+{"ts":3703,"kind":"file","effect":"file_read","action":"open_read","pid":4188,"procid":88,"srcpath":"\\??\\scsi#cdrom&ven_qemu&prod_qemu_dvd-rom#4&215468a5&0&010000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}","dstpath":""}
+{"ts":3734,"kind":"file","effect":"file_written","action":"open_modify","pid":4188,"procid":88,"srcpath":"C:\\Windows\\INF\\setupapi.dev.log","dstpath":""}
+{"ts":3734,"kind":"file","effect":"file_read","action":"open_read","pid":4188,"procid":88,"srcpath":"\\??\\Nsi","dstpath":""}
+{"ts":11796,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":11796,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\extensions.ini","dstpath":""}
+{"ts":11796,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\extensions.ini","dstpath":""}
+{"ts":11796,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\extensions.json","dstpath":""}
+{"ts":11812,"kind":"file","effect":"file_created","action":"create_modify","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":11812,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\","dstpath":""}
+{"ts":11812,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\","dstpath":""}
+{"ts":11812,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\","dstpath":""}
+{"ts":11812,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\","dstpath":""}
+{"ts":11812,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\","dstpath":""}
+{"ts":11812,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"\\??\\C:\\","dstpath":""}
+{"ts":11812,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\","dstpath":""}
+{"ts":11812,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":11812,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":11812,"kind":"file","effect":"file_deleted","action":"delete","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":11812,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\aminsis.dll","dstpath":""}
+{"ts":11828,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\","dstpath":""}
+{"ts":11828,"kind":"file","effect":"file_written","action":"open_modify","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\","dstpath":""}
+{"ts":11828,"kind":"file","effect":"file_read","action":"Unknown","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\","dstpath":""}
+{"ts":11828,"kind":"file","effect":"file_deleted","action":"delete","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp","dstpath":""}
+{"ts":11828,"kind":"file","effect":"file_read","action":"open_read","pid":4900,"procid":81,"srcpath":"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\nsm4363.tmp\\","dstpath":""}
+{"ts":15375,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":15531,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestoretemp51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":15531,"kind":"file","effect":"file_created","action":"create_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestoretemp51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":15578,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":15578,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":15578,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestoretemp51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":15578,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\","dstpath":""}
+{"ts":15578,"kind":"file","effect":"file_created","action":"create_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml~RF7d4e.TMP","dstpath":""}
+{"ts":15578,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml~RF7d4e.TMP","dstpath":""}
+{"ts":15578,"kind":"file","effect":"file_deleted","action":"delete","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml~RF7d4e.TMP","dstpath":""}
+{"ts":15578,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestoretemp51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":15578,"kind":"file","effect":"file_created","action":"create_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestoretemp51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":15625,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":15625,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":15625,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestoretemp51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":15625,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\","dstpath":""}
+{"ts":15640,"kind":"file","effect":"file_created","action":"create_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml~RF7d8c.TMP","dstpath":""}
+{"ts":15640,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml~RF7d8c.TMP","dstpath":""}
+{"ts":15640,"kind":"file","effect":"file_deleted","action":"delete","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml~RF7d8c.TMP","dstpath":""}
+{"ts":15671,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":15687,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"\\DEVICE\\NETBT_TCPIP_{B6098F25-97F6-4D7D-BAE2-D21D794F77F5}","dstpath":""}
+{"ts":15687,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"\\DEVICE\\NETBT_TCPIP_{ACBF57ED-C3BF-11EF-A098-806E6F6E6963}","dstpath":""}
+{"ts":15687,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":15687,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":15687,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\RasAcd","dstpath":""}
+{"ts":27312,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestoretemp51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":27312,"kind":"file","effect":"file_created","action":"create_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestoretemp51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":27375,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":27375,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":27375,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestoretemp51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml","dstpath":""}
+{"ts":27375,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\","dstpath":""}
+{"ts":27375,"kind":"file","effect":"file_created","action":"create_modify","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml~RFab63.TMP","dstpath":""}
+{"ts":27375,"kind":"file","effect":"file_read","action":"open_read","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml~RFab63.TMP","dstpath":""}
+{"ts":27375,"kind":"file","effect":"file_deleted","action":"delete","pid":3312,"procid":87,"srcpath":"C:\\ProgramData\\USOPrivate\\UpdateStore\\updatestore51b519d5-b6f5-4333-8df6-e74d7c9aead4.xml~RFab63.TMP","dstpath":""}
+{"ts":27734,"kind":"file","effect":"file_written","action":"open_modify","pid":3312,"procid":87,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":103515,"kind":"file","effect":"file_read","action":"Unknown","pid":4468,"procid":93,"srcpath":"C:\\Windows\\system32\\","dstpath":""}
+{"ts":103515,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\Device\\CNG","dstpath":""}
+{"ts":103640,"kind":"file","effect":"file_read","action":"Unknown","pid":4912,"procid":95,"srcpath":"C:\\Windows\\system32\\","dstpath":""}
+{"ts":103640,"kind":"file","effect":"file_read","action":"open_read","pid":4912,"procid":95,"srcpath":"\\Device\\CNG","dstpath":""}
+{"ts":103750,"kind":"file","effect":"file_read","action":"Unknown","pid":2416,"procid":96,"srcpath":"C:\\Windows\\system32\\","dstpath":""}
+{"ts":103750,"kind":"file","effect":"file_read","action":"open_read","pid":2416,"procid":96,"srcpath":"\\Device\\CNG","dstpath":""}
+{"ts":103812,"kind":"file","effect":"file_written","action":"open_modify","pid":2416,"procid":96,"srcpath":"\\Device\\KsecDD","dstpath":""}
+{"ts":103828,"kind":"file","effect":"file_read","action":"open_read","pid":2416,"procid":96,"srcpath":"C:\\ProgramData\\microsoft\\IdentityCRL\\production\\ppcrlconfig600.dll","dstpath":""}
+{"ts":103828,"kind":"file","effect":"file_read","action":"open_read","pid":2416,"procid":96,"srcpath":"C:\\ProgramData\\microsoft\\IdentityCRL\\production\\ppcrlconfig600.dll","dstpath":""}
+{"ts":103828,"kind":"file","effect":"file_read","action":"open_read","pid":2416,"procid":96,"srcpath":"C:\\ProgramData\\microsoft\\IdentityCRL\\production\\ppcrlconfig600.dll","dstpath":""}
+{"ts":103828,"kind":"file","effect":"file_read","action":"open_read","pid":2416,"procid":96,"srcpath":"C:\\ProgramData\\microsoft\\IdentityCRL\\production\\ppcrlconfig600.dll","dstpath":""}
+{"ts":103828,"kind":"file","effect":"file_read","action":"open_read","pid":2416,"procid":96,"srcpath":"C:\\ProgramData\\microsoft\\IdentityCRL\\production\\ppcrlconfig600.dll","dstpath":""}
+{"ts":103828,"kind":"file","effect":"file_read","action":"open_read","pid":2416,"procid":96,"srcpath":"C:\\ProgramData\\microsoft\\IdentityCRL\\production\\ppcrlconfig600.dll","dstpath":""}
+{"ts":103828,"kind":"file","effect":"file_read","action":"open_read","pid":2416,"procid":96,"srcpath":"C:\\ProgramData\\microsoft\\IdentityCRL\\production\\ppcrlconfig600.dll","dstpath":""}
+{"ts":103843,"kind":"file","effect":"file_read","action":"open_read","pid":4912,"procid":95,"srcpath":"\\??\\Nsi","dstpath":""}
+{"ts":103843,"kind":"file","effect":"file_read","action":"open_read","pid":4912,"procid":95,"srcpath":"\\DEVICE\\NETBT_TCPIP_{B6098F25-97F6-4D7D-BAE2-D21D794F77F5}","dstpath":""}
+{"ts":103843,"kind":"file","effect":"file_read","action":"open_read","pid":4912,"procid":95,"srcpath":"\\DEVICE\\NETBT_TCPIP_{ACBF57ED-C3BF-11EF-A098-806E6F6E6963}","dstpath":""}
+{"ts":103843,"kind":"file","effect":"file_read","action":"open_read","pid":4912,"procid":95,"srcpath":"\\DEVICE\\NETBT_TCPIP_{B6098F25-97F6-4D7D-BAE2-D21D794F77F5}","dstpath":""}
+{"ts":103843,"kind":"file","effect":"file_read","action":"open_read","pid":4912,"procid":95,"srcpath":"\\DEVICE\\NETBT_TCPIP_{ACBF57ED-C3BF-11EF-A098-806E6F6E6963}","dstpath":""}
+{"ts":103843,"kind":"file","effect":"file_read","action":"open_read","pid":4912,"procid":95,"srcpath":"\\DEVICE\\NETBT_TCPIP_{B6098F25-97F6-4D7D-BAE2-D21D794F77F5}","dstpath":""}
+{"ts":103843,"kind":"file","effect":"file_read","action":"open_read","pid":4912,"procid":95,"srcpath":"\\DEVICE\\NETBT_TCPIP_{ACBF57ED-C3BF-11EF-A098-806E6F6E6963}","dstpath":""}
+{"ts":103843,"kind":"file","effect":"file_read","action":"open_read","pid":4912,"procid":95,"srcpath":"\\DEVICE\\NETBT_TCPIP_{B6098F25-97F6-4D7D-BAE2-D21D794F77F5}","dstpath":""}
+{"ts":103843,"kind":"file","effect":"file_read","action":"open_read","pid":4912,"procid":95,"srcpath":"\\DEVICE\\NETBT_TCPIP_{ACBF57ED-C3BF-11EF-A098-806E6F6E6963}","dstpath":""}
+{"ts":103843,"kind":"file","effect":"file_written","action":"open_modify","pid":4912,"procid":95,"srcpath":"\\Device\\KsecDD","dstpath":""}
+{"ts":103843,"kind":"file","effect":"file_written","action":"open_modify","pid":4912,"procid":95,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":103843,"kind":"file","effect":"file_written","action":"open_modify","pid":4912,"procid":95,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":103859,"kind":"file","effect":"file_written","action":"open_modify","pid":4912,"procid":95,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":103859,"kind":"file","effect":"file_written","action":"open_modify","pid":4912,"procid":95,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":103859,"kind":"file","effect":"file_written","action":"open_modify","pid":4912,"procid":95,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":103859,"kind":"file","effect":"file_written","action":"open_modify","pid":4912,"procid":95,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":103859,"kind":"file","effect":"file_written","action":"open_modify","pid":4912,"procid":95,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":103859,"kind":"file","effect":"file_written","action":"open_modify","pid":4912,"procid":95,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":103859,"kind":"file","effect":"file_read","action":"open_read","pid":2416,"procid":96,"srcpath":"\\??\\Nsi","dstpath":""}
+{"ts":103890,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr0.dat","dstpath":""}
+{"ts":103890,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr1.dat","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"Unknown","pid":4996,"procid":97,"srcpath":"C:\\Windows\\system32\\","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\edb.chk","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\Volume{301fc0b2-0000-0000-0000-d01200000000}","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\PhysicalDrive0","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"Unknown","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\edb.log","dstpath":""}
+{"ts":103906,"kind":"file","effect":"file_read","action":"open_read","pid":4996,"procid":97,"srcpath":"\\Device\\CNG","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\edb.chk","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\edb.log","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\res1.log","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\res2.log","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"Unknown","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"Unknown","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"Unknown","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\edb00001.log","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\edb.log","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"Unknown","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"Unknown","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"Unknown","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"Unknown","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.db","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.db","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"Unknown","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.jfm","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.jfm","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.jfm","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.jfm","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.jfm\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\Volume{301fc0b2-0000-0000-0000-d01200000000}","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\PhysicalDrive0","dstpath":""}
+{"ts":103921,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.jfm","dstpath":""}
+{"ts":103937,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.db","dstpath":""}
+{"ts":103937,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.db","dstpath":""}
+{"ts":103953,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\edb.log","dstpath":""}
+{"ts":103953,"kind":"file","effect":"file_read","action":"open_read","pid":4996,"procid":97,"srcpath":"C:\\ProgramData\\Microsoft\\Windows\\ClipSvc\\tokens.dat","dstpath":""}
+{"ts":103953,"kind":"file","effect":"file_read","action":"Unknown","pid":4996,"procid":97,"srcpath":"C:\\ProgramData\\Microsoft\\Windows\\ClipSvc\\GenuineTicket\\","dstpath":""}
+{"ts":103953,"kind":"file","effect":"file_read","action":"Unknown","pid":4996,"procid":97,"srcpath":"C:\\ProgramData\\Microsoft\\Windows\\ClipSvc\\Import\\","dstpath":""}
+{"ts":103953,"kind":"file","effect":"file_read","action":"Unknown","pid":4996,"procid":97,"srcpath":"C:\\ProgramData\\Microsoft\\Windows\\ClipSvc\\Install\\KeyHolder\\","dstpath":""}
+{"ts":103953,"kind":"file","effect":"file_read","action":"Unknown","pid":4996,"procid":97,"srcpath":"C:\\ProgramData\\Microsoft\\Windows\\ClipSvc\\Install\\Device\\","dstpath":""}
+{"ts":103953,"kind":"file","effect":"file_read","action":"Unknown","pid":4996,"procid":97,"srcpath":"C:\\ProgramData\\Microsoft\\Windows\\ClipSvc\\Install\\Migration\\","dstpath":""}
+{"ts":103953,"kind":"file","effect":"file_read","action":"Unknown","pid":4996,"procid":97,"srcpath":"C:\\ProgramData\\Microsoft\\Windows\\ClipSvc\\Install\\Apps\\","dstpath":""}
+{"ts":103968,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":103968,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":103968,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":103968,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":103968,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":103968,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":103968,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":103968,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\Volume{301fc0b2-0000-0000-0000-d01200000000}","dstpath":""}
+{"ts":103968,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\PhysicalDrive0","dstpath":""}
+{"ts":103968,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\edb.chk","dstpath":""}
+{"ts":103984,"kind":"file","effect":"file_written","action":"open_modify","pid":4996,"procid":97,"srcpath":"\\??\\TPM","dstpath":""}
+{"ts":103984,"kind":"file","effect":"file_written","action":"open_modify","pid":4996,"procid":97,"srcpath":"\\Device\\KsecDD","dstpath":""}
+{"ts":103984,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\edb.chk","dstpath":""}
+{"ts":103984,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\edb.chk","dstpath":""}
+{"ts":103984,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\edb.log","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\edb.log","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":2416,"procid":96,"srcpath":"\\Device\\KsecDD","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\edb.log","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\edb.chk","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"Unknown","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"Unknown","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.db","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"Unknown","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.jfm","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.jfm","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.jfm","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.jfm","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.jfm\\","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\Volume{301fc0b2-0000-0000-0000-d01200000000}","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\PhysicalDrive0","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.jfm","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.db","dstpath":""}
+{"ts":104000,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\ProgramData\\Microsoft\\Network\\Downloader\\qmgr.db","dstpath":""}
+{"ts":104015,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":104015,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":104015,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":104015,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":104015,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":104015,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":104015,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":104015,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\Volume{301fc0b2-0000-0000-0000-d01200000000}","dstpath":""}
+{"ts":104015,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\PhysicalDrive0","dstpath":""}
+{"ts":104015,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\Windows\\Debug\\ESE.TXT","dstpath":""}
+{"ts":104015,"kind":"file","effect":"file_written","action":"open_modify","pid":4996,"procid":97,"srcpath":"\\??\\TPM","dstpath":""}
+{"ts":104031,"kind":"file","effect":"file_written","action":"open_modify","pid":4996,"procid":97,"srcpath":"\\??\\TPM","dstpath":""}
+{"ts":104046,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\??\\PIPE\\lsarpc","dstpath":""}
+{"ts":104062,"kind":"file","effect":"file_written","action":"open_modify","pid":4996,"procid":97,"srcpath":"\\??\\TPM","dstpath":""}
+{"ts":104062,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\KsecDD","dstpath":""}
+{"ts":104062,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\??\\PIPE\\wkssvc","dstpath":""}
+{"ts":104078,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":104078,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\Nsi","dstpath":""}
+{"ts":104078,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":104078,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":104078,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":104078,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":104078,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\RasAcd","dstpath":""}
+{"ts":104078,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":104078,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":105125,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":106125,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":106125,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":106187,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\DEVICE\\NETBT_TCPIP_{B6098F25-97F6-4D7D-BAE2-D21D794F77F5}","dstpath":""}
+{"ts":106187,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\DEVICE\\NETBT_TCPIP_{ACBF57ED-C3BF-11EF-A098-806E6F6E6963}","dstpath":""}
+{"ts":106187,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\DEVICE\\NETBT_TCPIP_{B6098F25-97F6-4D7D-BAE2-D21D794F77F5}","dstpath":""}
+{"ts":106187,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\DEVICE\\NETBT_TCPIP_{ACBF57ED-C3BF-11EF-A098-806E6F6E6963}","dstpath":""}
+{"ts":106250,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\Device\\DeviceApi\\CMApi","dstpath":""}
+{"ts":106250,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\Windows\\ServiceProfiles\\LocalService\\AppData\\Local\\FontCache\\Fonts","dstpath":""}
+{"ts":106250,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\Windows\\ServiceProfiles\\LocalService\\AppData\\Local\\FontCache","dstpath":""}
+{"ts":106250,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\Windows\\ServiceProfiles\\LocalService\\AppData\\Local","dstpath":""}
+{"ts":106250,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\Windows\\ServiceProfiles\\LocalService\\AppData","dstpath":""}
+{"ts":106250,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\Windows\\ServiceProfiles\\LocalService","dstpath":""}
+{"ts":106250,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\Windows\\ServiceProfiles","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"C:\\Windows","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\C:","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\??\\MountPointManager","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_read","action":"Unknown","pid":4468,"procid":93,"srcpath":"\\??\\Volume{301fc0b2-0000-0000-0000-d01200000000}\\","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"C:\\Windows\\ServiceProfiles\\LocalService\\AppData\\Local\\FontCache\\Fonts\\Download-1.tmp","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\DEVICE\\NETBT_TCPIP_{B6098F25-97F6-4D7D-BAE2-D21D794F77F5}","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_read","action":"open_read","pid":4468,"procid":93,"srcpath":"\\DEVICE\\NETBT_TCPIP_{ACBF57ED-C3BF-11EF-A098-806E6F6E6963}","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
+{"ts":106265,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\RasAcd","dstpath":""}
+{"ts":111234,"kind":"file","effect":"file_read","action":"open_read","pid":4912,"procid":95,"srcpath":"\\DEVICE\\NETBT_TCPIP_{B6098F25-97F6-4D7D-BAE2-D21D794F77F5}","dstpath":""}
+{"ts":111234,"kind":"file","effect":"file_read","action":"open_read","pid":4912,"procid":95,"srcpath":"\\DEVICE\\NETBT_TCPIP_{B6098F25-97F6-4D7D-BAE2-D21D794F77F5}","dstpath":""}
+{"ts":118281,"kind":"file","effect":"file_written","action":"open_modify","pid":4468,"procid":93,"srcpath":"\\Device\\Afd\\Endpoint","dstpath":""}
