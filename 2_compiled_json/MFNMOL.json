@@ -1,0 +1,759 @@
+{
+  "static": {
+    "pe_imports": [
+      {
+        "dll": "KERNEL32.dll",
+        "imports": [
+          "VirtualAllocEx",
+          "CreateFileA",
+          "LoadLibraryA",
+          "GetProcAddress",
+          "GetWindowsDirectoryW",
+          "lstrcatW",
+          "CreateFileW"
+        ]
+      }
+    ]
+  },
+  "behaviours": {
+    "processes": [
+      {
+        "name": "VirusShare_7f91c84f6744586599e5932cd033ef61.exe",
+        "pid": 4900,
+        "ppid": 3180,
+        "commandline": "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\VirusShare_7f91c84f6744586599e5932cd033ef61.exe\"",
+        "injected": false
+      }
+    ],
+    "host_resolved": [
+      "192.168.30.255",
+      "8.8.8.8",
+      "8.8.4.4"
+    ],
+    "files": [
+      {
+        "srcpath": "C:\\Windows",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Windows",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\VirusShare_7f91c84f6744586599e5932cd033ef61.exe",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\VirusShare_7f91c84f6744586599e5932cd033ef61.exe",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "\\??\\C:\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\VirusShare_7f91c84f6744586599e5932cd033ef61.exe",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "\\??\\C:\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\VirusShare_7f91c84f6744586599e5932cd033ef61.exe",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "\\??\\C:\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      }
+    ],
+    "registry": [
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\Segment Heap",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\Segment Heap",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\Registry\\Machine\\Software\\Microsoft\\Wow64\\x86",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Wow64\\x86\\VirusShare_7f91c84f6744586599e5932cd033ef61.exe",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Wow64\\x86\\",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\Registry\\Machine\\Software\\Microsoft\\Wow64\\x86\\xtajit",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\Segment Heap",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\Segment Heap",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\3c74afb9-8d82-44e3-b52c-365dbf48382a",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\FileSystem",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\FileSystem",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\FileSystem\\LongPathsEnabled",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\05f95efe-7f75-49c7-a994-60a55cc09571",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Terminal Server",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Terminal Server",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Terminal Server\\TSAppCompat",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Terminal Server\\TSUserEnabled",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\SafeBoot\\Option",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\SafeBoot\\Option",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Srp\\GP\\DLL",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Srp\\GP\\DLL",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\safer\\codeidentifiers\\TransparentEnabled",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\8ccca27d-f1d8-4dda-b5dd-339aee937731",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\Registry\\Machine\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\LogFlags",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\18608e62-a628-49d9-8c02-55972e097d24",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\Registry\\Machine\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\ShowDebugInfo",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Cache",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Cache",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\ResourcePolicies",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Cache",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Disable8And16BitMitigation",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale\\EMPTY",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale\\EMPTY",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\NLS\\Language",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\NLS\\Language",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Language\\InstallLanguageFallback",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages",
+        "valuetype": "",
+        "action": "enumerate_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US\\Type",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US\\AlternateCodePage",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\PendingDelete",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\PendingDelete",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Control Panel\\Desktop\\MuiCached\\MachineLanguageConfiguration",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\Settings\\LanguageConfiguration",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\Settings\\LanguageConfiguration",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Policies\\Microsoft\\Control Panel\\Desktop",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Control Panel\\Desktop\\LanguageConfiguration",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Policies\\Microsoft\\Control Panel\\Desktop",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Control Panel\\Desktop",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Control Panel\\Desktop\\PreferredUILanguages",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Control Panel\\Desktop\\MuiCached",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Control Panel\\Desktop\\MuiCached\\MachinePreferredUILanguages",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Control Panel\\Desktop\\MuiCached\\MachinePreferredUILanguages",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions\\UseFilter",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions\\VirusShare_7f91c84f6744586599e5932cd033ef61.exe",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      }
+    ]
+  },
+  "filename": "VirusShare_7f91c84f6744586599e5932cd033ef61.exe"
+}

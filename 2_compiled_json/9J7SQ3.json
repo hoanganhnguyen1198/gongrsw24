@@ -1,0 +1,3759 @@
+{
+  "static": {
+    "pe_imports": [
+      {
+        "dll": "KERNEL32.dll",
+        "imports": [
+          "lstrcpyA",
+          "GetCommandLineA",
+          "SetErrorMode",
+          "lstrlenA",
+          "MulDiv",
+          "GetTempFileNameA",
+          "GetWindowsDirectoryA",
+          "GetModuleFileNameA",
+          "GetModuleHandleA",
+          "FormatMessageA",
+          "lstrcatA",
+          "GetLastError",
+          "_lwrite",
+          "_llseek",
+          "GlobalUnlock",
+          "_lopen",
+          "GlobalAlloc",
+          "GlobalFree",
+          "_lclose",
+          "_lcreat",
+          "LoadLibraryA",
+          "GetProcAddress",
+          "FreeLibrary",
+          "OpenFile",
+          "GetVersionExA",
+          "GetCurrentProcess",
+          "WinExec",
+          "ExitProcess",
+          "_lread",
+          "LocalFree",
+          "GetTempPathA",
+          "GlobalLock"
+        ]
+      },
+      {
+        "dll": "USER32.dll",
+        "imports": [
+          "GetDC",
+          "BeginPaint",
+          "EndPaint",
+          "InvalidateRect",
+          "PostQuitMessage",
+          "SendMessageA",
+          "DefWindowProcA",
+          "GetClientRect",
+          "CreateWindowExA",
+          "DrawTextA",
+          "ReleaseDC",
+          "ShowWindow",
+          "SetWindowPos",
+          "UpdateWindow",
+          "SetTimer",
+          "LoadIconA",
+          "wsprintfA",
+          "MessageBoxA",
+          "ExitWindowsEx",
+          "RegisterClassA",
+          "LoadCursorA"
+        ]
+      },
+      {
+        "dll": "GDI32.dll",
+        "imports": [
+          "DeleteObject",
+          "GetStockObject",
+          "GetDeviceCaps",
+          "PatBlt",
+          "CreateSolidBrush",
+          "TextOutA",
+          "SetTextColor",
+          "SetBkMode",
+          "SelectObject",
+          "StretchDIBits",
+          "CreateFontA",
+          "RealizePalette",
+          "SelectPalette",
+          "CreatePalette"
+        ]
+      },
+      {
+        "dll": "ADVAPI32.dll",
+        "imports": [
+          "OpenProcessToken",
+          "AdjustTokenPrivileges",
+          "LookupPrivilegeValueA"
+        ]
+      }
+    ]
+  },
+  "behaviours": {
+    "processes": [
+      {
+        "name": "Taskbar_Hide_v3.1.1.exe",
+        "pid": 4980,
+        "ppid": 3228,
+        "commandline": "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\Taskbar_Hide_v3.1.1.exe\"",
+        "injected": false
+      }
+    ],
+    "host_resolved": [
+      "192.168.30.255",
+      "8.8.8.8",
+      "8.8.4.4"
+    ],
+    "files": [
+      {
+        "srcpath": "C:\\Windows",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Windows",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\Taskbar_Hide_v3.1.1.exe",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\Taskbar_Hide_v3.1.1.exe",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "\\??\\C:\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\Taskbar_Hide_v3.1.1.exe",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "\\??\\C:\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\Taskbar_Hide_v3.1.1.exe",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "\\??\\C:\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "\\Device\\CNG",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\Taskbar_Hide_v3.1.1.exe",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLC4304.tmp",
+        "dstpath": "",
+        "action": "create_read",
+        "effect": "file_created"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLC4304.tmp",
+        "dstpath": "",
+        "action": "open_modify",
+        "effect": "file_written"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLC4304.tmp",
+        "dstpath": "",
+        "action": "open_modify",
+        "effect": "file_written"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLC4304.tmp",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.15063.0_none_8b4e86125c6fbfec",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLC4304.tmp",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "\\Device\\DeviceApi\\CMApi",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLK4353.tmp",
+        "dstpath": "",
+        "action": "create_read",
+        "effect": "file_created"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLK4353.tmp",
+        "dstpath": "",
+        "action": "open_modify",
+        "effect": "file_written"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLK4353.tmp",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLK4353.tmp",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLK4353.tmp",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLB4EDD.tmp",
+        "dstpath": "",
+        "action": "create_read",
+        "effect": "file_created"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLB4EDD.tmp",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLB4EDD.tmp",
+        "dstpath": "",
+        "action": "delete",
+        "effect": "file_deleted"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLG4EDE.tmp",
+        "dstpath": "",
+        "action": "create_read",
+        "effect": "file_created"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLG4EDE.tmp",
+        "dstpath": "",
+        "action": "open_modify",
+        "effect": "file_written"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\Taskbar_Hide_v3.1.1.exe",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLF4EEF.tmp",
+        "dstpath": "",
+        "action": "create_read",
+        "effect": "file_created"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLF4EEF.tmp",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~GLH0000.TMP",
+        "dstpath": "",
+        "action": "create_modify",
+        "effect": "file_created"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLF4EEF.tmp",
+        "dstpath": "",
+        "action": "open_modify",
+        "effect": "file_written"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLF4EEF.tmp",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\GLF4EEF.tmp",
+        "dstpath": "",
+        "action": "delete",
+        "effect": "file_deleted"
+      },
+      {
+        "srcpath": "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\~GLH0000.TMP",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "\\??\\C:\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\Administrator\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\Administrator\\AppData\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\Administrator\\AppData\\Local\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\",
+        "dstpath": "",
+        "action": "Unknown",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Windows\\SysWOW64\\GLBSINST.%$D",
+        "dstpath": "",
+        "action": "create_modify",
+        "effect": "file_created"
+      },
+      {
+        "srcpath": "C:\\Windows\\SysWOW64\\GLBSINST.%$D",
+        "dstpath": "",
+        "action": "open_read",
+        "effect": "file_read"
+      },
+      {
+        "srcpath": "C:\\Windows\\SysWOW64\\GLBSINST.%$D",
+        "dstpath": "",
+        "action": "delete",
+        "effect": "file_deleted"
+      }
+    ],
+    "registry": [
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\Segment Heap",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\Segment Heap",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\Registry\\Machine\\Software\\Microsoft\\Wow64\\x86",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Wow64\\x86\\Taskbar_Hide_v3.1.1.exe",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Wow64\\x86\\",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\Registry\\Machine\\Software\\Microsoft\\Wow64\\x86\\xtajit",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\Segment Heap",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\Segment Heap",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\3c74afb9-8d82-44e3-b52c-365dbf48382a",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\FileSystem",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\FileSystem",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\FileSystem\\LongPathsEnabled",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\05f95efe-7f75-49c7-a994-60a55cc09571",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Terminal Server",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Terminal Server",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Terminal Server\\TSAppCompat",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Terminal Server\\TSUserEnabled",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\SafeBoot\\Option",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\SafeBoot\\Option",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Srp\\GP\\DLL",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Srp\\GP\\DLL",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\safer\\codeidentifiers\\TransparentEnabled",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Policies\\Microsoft\\Windows\\Safer\\CodeIdentifiers",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\8ccca27d-f1d8-4dda-b5dd-339aee937731",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\Registry\\Machine\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\LogFlags",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\18608e62-a628-49d9-8c02-55972e097d24",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\Registry\\Machine\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\ShowDebugInfo",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Cache",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Cache",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\ResourcePolicies",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders\\Cache",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\Registry\\Machine\\Software\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\Disable8And16BitMitigation",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale\\EMPTY",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale\\EMPTY",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\NLS\\Language",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\NLS\\Language",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Language\\InstallLanguageFallback",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages",
+        "valuetype": "",
+        "action": "enumerate_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US\\Type",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\en-US\\AlternateCodePage",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\PendingDelete",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\UILanguages\\PendingDelete",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Control Panel\\Desktop\\MuiCached\\MachineLanguageConfiguration",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\Settings\\LanguageConfiguration",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\MUI\\Settings\\LanguageConfiguration",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Policies\\Microsoft\\Control Panel\\Desktop",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Control Panel\\Desktop\\LanguageConfiguration",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Policies\\Microsoft\\Control Panel\\Desktop",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Control Panel\\Desktop",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Control Panel\\Desktop\\PreferredUILanguages",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\MUI\\Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Control Panel\\Desktop\\MuiCached",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Control Panel\\Desktop\\MuiCached\\MachinePreferredUILanguages",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Control Panel\\Desktop\\MuiCached\\MachinePreferredUILanguages",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions\\UseFilter",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions\\Taskbar_Hide_v3.1.1.exe",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Sorting\\Versions",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Sorting\\Versions",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Sorting\\Versions\\",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\f25bcd2e-2690-55dc-3bc4-07b65b1b41c9",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Display",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Display",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Taskbar_Hide_v3.1.1.exe",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Display",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Display",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize\\DisableMetaFiles",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\Registry\\Machine\\Software\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Compatibility32",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Compatibility32\\Taskbar_Hide_v3.1.1",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\Registry\\Machine\\Software\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\IME Compatibility",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows\\LoadAppInit_DLLs",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Taskbar_Hide_v3.1.1.exe",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\FipsAlgorithmPolicy",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\FipsAlgorithmPolicy",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\FipsAlgorithmPolicy\\Enabled",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\FipsAlgorithmPolicy",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Lsa\\FipsAlgorithmPolicy\\MDMEnabled",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Policies\\Microsoft\\Cryptography\\Configuration",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Policies\\Microsoft\\Cryptography\\Configuration",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\a6d3c9ac-9128-522a-495a-1821191173c2",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Ole",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Ole",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Ole\\PageAllocatorUseSystemHeap",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Ole",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Ole",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Ole\\PageAllocatorSystemHeapIsPrivate",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Ole",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Ole",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Ole\\AggressiveMTATesting",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500_Classes\\Local Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500_Classes\\Local Settings",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500_Classes\\Local Settings",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500_Classes\\Local Settings",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500_Classes\\Local Settings\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\Software\\Microsoft\\Ole\\FeatureDevelopmentProperties",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Ole\\Tracing",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Ole\\Tracing",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\1aff6089-e863-4d36-bdfd-3581f07440be",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\f0558438-f56a-5987-47da-040ca75aef05",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\OLEAUT",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale\\en-US",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\ExtendedLocale",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\ExtendedLocale",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\ExtendedLocale\\en-US",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale\\en-GB",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\ExtendedLocale",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\ExtendedLocale",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\ExtendedLocale\\en-GB",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\SafeDllSearchMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\ResourcePolicies",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Accent",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Personalization",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Personalization",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Personalization",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Personalization",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\CTF\\Compatibility\\Taskbar_Hide_v3.1.1.exe",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\CTF\\Compatibility\\Taskbar_Hide_v3.1.1.exe",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\4e7add1a-6945-435a-82b6-612688ba9f57",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\3720dda7-caea-4af3-a138-375aafc3f1d6",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\ResourcePolicies",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\ebadf775-48aa-4bf3-8f8e-ec68d113c98e",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\CTF\\",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\CTF\\EnableAnchorContext",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Sorting\\Versions\\000602xx",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Sorting\\Ids",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Sorting\\Ids",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\CTF\\KnownClasses",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Rpc",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Rpc",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Rpc\\MaxRpcSize",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\ComputerName\\ActiveComputerName",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\ComputerName\\ActiveComputerName",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\ComputerName\\ActiveComputerName\\ComputerName",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\Registry\\Machine\\System\\Setup",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\Setup\\OOBEInProgress",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\Registry\\Machine\\System\\Setup",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\Setup\\SystemSetupInProgress",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\Taskbar_Hide_v3.1.1.exe",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\Rpc",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\Rpc",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Rpc",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Rpc",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Rpc\\IdleTimerWindow",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input\\IsOneCore",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input\\IsOneCore",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input\\IsOneCore",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input\\IsOneCore",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input\\ResyncResetTime",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Input\\MaxResyncAttempts",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Locale",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Locale",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Locale\\Alternate Sorts",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Locale\\Alternate Sorts",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Language Groups",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Language Groups",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Locale\\00000409",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Language Groups\\1",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0\\Disable",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\DataStore_V1.0\\DataFilePath",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane1",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane2",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane2",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane3",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane4",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane5",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane6",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane7",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane8",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane9",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane10",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane11",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane12",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane13",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane14",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane15",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Plane16",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+        "valuetype": "",
+        "action": "enumerate_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+        "valuetype": "",
+        "action": "enumerate_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+        "valuetype": "",
+        "action": "enumerate_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+        "valuetype": "",
+        "action": "enumerate_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\MS Sans Serif",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\Registry\\Machine\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\SideBySide\\AssemblyStorageRoots",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions\\GLC4304.tmp",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\30336ed4-e327-447c-9de0-51b652c86108",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\b87cf16b-0bf8-4492-a510-d5f59626b033",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\a40b455c-253c-4311-ac6d-6e667edccefc",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\703fcc13-b66f-5868-ddd9-e2db7f381ffb",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\32980f26-c8f5-5767-6b26-635b3fa83c61",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\30336ed4-e327-447c-9de0-51b652c86108",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\b87cf16b-0bf8-4492-a510-d5f59626b033",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\32980f26-c8f5-5767-6b26-635b3fa83c61",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\WMI\\Security\\703fcc13-b66f-5868-ddd9-e2db7f381ffb",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\control\\NetworkProvider\\HwOrder",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\control\\NetworkProvider\\HwOrder",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Session Manager\\ResourcePolicies",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\DllNXOptions\\GLK4353.tmp",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\CMF\\Config",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\CMF\\Config",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\CMF\\Config\\SYSTEM",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\CTF\\DirectSwitchHotkeys",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Sorting\\Ids\\en-US",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Sorting\\Ids\\en",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\CTF\\KnownClasses",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Setup",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Setup",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Setup\\SharedDir",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\Software\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\SharedDLLs",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\SharedDlls\\C:\\Users\\Administrator\\AppData\\Local\\Temp\\GLF4EEF.tmp",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Hvsi",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SYSTEM\\ControlSet001\\Control\\Hvsi",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\CommonFilesDir",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\CommonFilesDir",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\ProgramFilesDir",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\Windows\\CurrentVersion\\ProgramFilesDir",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\WOW6432Node\\Microsoft\\CTF\\KnownClasses",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\CurrentVersion\\ImmersiveShell\\TabletMode",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\USER\\S-1-5-21-4189341723-2754120001-2032404538-500\\Software\\Microsoft\\Windows\\DWM\\ColorPrevalence",
+        "valuetype": "",
+        "action": "query_value_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback",
+        "valuetype": "",
+        "action": "query_key",
+        "effect": "key_read"
+      },
+      {
+        "path": "\\REGISTRY\\MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\LanguagePack\\SurrogateFallback\\Helv",
+        "valuetype": "",
+        "action": "open_key_ex",
+        "effect": "key_read"
+      }
+    ]
+  },
+  "filename": "Taskbar_Hide_v3.1.1.exe"
+}
