@@ -1,6 +1,3 @@
 results_*
-archives/augusto_ds/processed_ds/*
 4_compiled_csv/*.csv
 .DS_Store
-archives/.DS_Store
-archives/augusto_ds/.DS_Store
