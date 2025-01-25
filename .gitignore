@@ -1,5 +1,4 @@
 results_*
-*.zip
 archives/augusto_ds/processed_ds/*
 4_compiled_csv/*.csv
 .DS_Store
